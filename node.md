@@ -2,7 +2,7 @@
 
 These versions are available on Conjure
 
-See http://conjure.test:3000/docs for more details
+See https://conjure.sh/docs for more details
 
 ### 10
 - 10.x
